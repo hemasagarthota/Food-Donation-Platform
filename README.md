@@ -80,12 +80,7 @@ Food-Donation-Platform/
 
 ---
 
-## 🔗 Repository
 
-GitHub:  
-👉 https://github.com/chay2405/Food-Donation-Platform.git
-
----
 
 ## 📌 Future Enhancements
 
